@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+}
+
+.button {
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 15px 70px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 89%;
+  left: 69%; 
+}
+
+.resultbutton{ 
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 65%;
+  left: 80%;
+}
+
+.whybutton{
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 68%;
+  left: 78%;
+}
